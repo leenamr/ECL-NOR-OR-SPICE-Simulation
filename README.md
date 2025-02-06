@@ -3,8 +3,8 @@
 This repository contains the simulation of Emitter-Coupled Logic (ECL) NOR and OR gates using LTSpice. The project focuses on analyzing the high-speed performance and low propagation delay of ECL circuits, which are crucial for high-frequency applications.
 
 ## Contents
-- **ECL_Report.pdf**: The project report detailing the simulation setup, analysis, and results.
-- **LTSpice_Files**: Contains the LTSpice schematic and simulation files.
+- **ECL Report.pdf**: The project report detailing the simulation setup, analysis, and results.
+- **LTSpice Files**: Contains the LTSpice schematic and simulation files.
 - **images**: Contains images of the circuit schematic and simulation results.
 
 ## How to Run the Simulation
