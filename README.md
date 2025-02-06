@@ -5,7 +5,7 @@ This repository contains the simulation of Emitter-Coupled Logic (ECL) NOR and O
 ## Contents
 - **ECL Report.pdf**: The project report detailing the simulation setup, analysis, and results.
 - **LTSpice Files**: Contains the LTSpice schematic and simulation files.
-- **images**: Contains images of the circuit schematic and simulation results.
+- **Images**: Contains images of the circuit schematic and simulation results.
 
 ## How to Run the Simulation
 1. **Install LTSpice**: Download and install LTSpice from [Analog Devices](https://www.analog.com/en/design-center/design-tools-and-calculators/ltspice-simulator.html).
